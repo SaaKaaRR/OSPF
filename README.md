@@ -62,3 +62,5 @@ After successfully completing this lab, you should be able to:
 4. Verify proper route exchange between remote areas through Area 0.
 5. Interpret OSPF operational outputs using verification commands.
 6. Troubleshoot common OSPF deployment issues in enterprise networks.
+
+![OSPF Topology MultiArea](images/OSPF_MultiArea_Lab.png)
