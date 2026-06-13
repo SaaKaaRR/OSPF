@@ -67,4 +67,4 @@ After successfully completing this lab, you should be able to:
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-blue)
 ![OSPF](https://img.shields.io/badge/Routing-OSPF-success)
-![Lab](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
