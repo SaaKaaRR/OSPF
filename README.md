@@ -64,6 +64,7 @@ After successfully completing this lab, you should be able to:
 6. Troubleshoot common OSPF deployment issues in enterprise networks.
 
 ![OSPF Topology MultiArea](images/OSPF_MultiArea_Lab.png)
+
 ![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-blue)
 ![OSPF](https://img.shields.io/badge/Routing-OSPF-success)
 ![Lab](https://img.shields.io/badge/Status-Completed-brightgreen)
